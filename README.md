@@ -7,6 +7,8 @@ A powerful web-based chatbot that behaves like a search engine. It takes user qu
 ## 🖼️ Screenshots
 
 Home Page
+*********
+
 
 <img width="1861" height="784" alt="Screenshot 2025-08-02 145815" src="https://github.com/user-attachments/assets/873d36d0-81ce-4b3f-9598-2378e7dc8e59" />
 
@@ -18,6 +20,9 @@ Home Page
 
 
 Wikipedia 
+*********
+
+
 
 <img width="1819" height="886" alt="Screenshot 2025-08-02 144306" src="https://github.com/user-attachments/assets/224a0376-054d-48fd-ad94-5a23d2650505" />
 
@@ -25,6 +30,9 @@ Wikipedia
 
 
 News
+*****
+
+
 
 <img width="1844" height="834" alt="Screenshot 2025-08-02 144436" src="https://github.com/user-attachments/assets/433fce8c-856a-49ae-8f45-f9872fd60558" />
 
