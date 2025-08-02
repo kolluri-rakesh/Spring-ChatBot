@@ -62,3 +62,31 @@ News
    ```bash
    git clone https://github.com/kolluri-rakesh/search-engine-chatbot.git
    cd search-engine-chatbot
+
+
+2.   Add your NewsAPI Key:
+
+    Open SearchService.java
+
+    Replace "YOUR_NEWSAPI_KEY" with your actual API key from https://newsapi.org
+
+3.   Run the project:
+
+4.   Open in Browser:
+
+    http://localhost:8080/
+
+📁 Project Structure
+
+├── controller
+│   └── SearchController.java
+├── service
+│   └── SearchService.java
+├── templates
+│   ├── index.html
+│   └── result.html
+├── static
+│   └── style.css
+└── config
+    └── SecurityConfig.java
+
