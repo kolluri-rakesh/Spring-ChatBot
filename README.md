@@ -60,7 +60,7 @@ News
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kolluri-rakesh/search-engine-chatbot.git
+   git clone https://github.com/kolluri-rakesh/Spring-ChatBot.git
    cd search-engine-chatbot
 
 
